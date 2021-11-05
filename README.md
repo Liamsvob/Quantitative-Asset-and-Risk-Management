@@ -16,7 +16,7 @@ Our data set includes the prices of the World Equities index, World Bonds, US hi
 
 This report aims to develop a portfolio by designing an investment process that will combine a Strategic Asset Allocation (SAA) component with a Tactical Asset Allocation (TAA) component. The paper is separated into three parts. The first part will aim to create an SAA component through various types of optimizations. The second part will aim to create a TAA component, using long/short value and momentum factors, and developing a strategy using the VIX Index. The third and final part will aim to combine both models to create a model portfolio. As we will be restricted on our position on some assets, we will have to create a replication portfolio where its performance will be as close as possible to the model portfolio. We will present various performance measures such as the Sharpe ratio, maximum drawdown, hit ratio, tracking error, and information ratio throughout the parts.
 
-Our data set includes 7 indices representing the monthly prices of world equities, world bonds, US investment-grade bonds, US high yield bonds, gold, energy and cooper from 2000 to 2021 with a total of 247 observations per asset.
+Our data set includes 7 indices representing the monthly prices of world equities, world bonds, US investment-grade bonds, US high yield bonds, gold, energy and copper from 2000 to 2021 with a total of 247 observations per asset.
 
 ## Assignment 3
 
